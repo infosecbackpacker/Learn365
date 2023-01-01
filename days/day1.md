@@ -12,4 +12,9 @@ Index | Section
   
   * [Leaning CEH Module 1 Introduction to Ethcal Hacking ]() 
 
-  
+ 	  * Elements of Information Security - CIA 
+	  * Classification of Attacks
+	  * Cyber Kill Methodology
+	  * What is Hacking ? Types of Hacker Class
+	  * Hacking Phase -
+        Reconnaissance ,Scanning, Gaining Access, Maintaining Access and Clearing Tracks
