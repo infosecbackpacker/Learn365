@@ -1,10 +1,15 @@
 #### Learning Resource:
+* Learn about difference between 
+ 	
+  * IPV4 and IPV6
+	  
+  * OSI and TCP/IP Model
+	 
+  * Public IP and Private IP
 
-  * [Learn Javascript [13:14 Hr - 15:03 Hr]](https://www.youtube.com/watch?v=KGkiIBTq0y0)
+* [Solving  TCM Security Linux Lab ](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
-  * [Read BugBounty BootCamp [216 pg - 224 pg] - Book](https://www.amazon.in/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3)
+            * Solving Vulnerable  Machine -  Academy
+            
 
-  * Learn Python
- 	  * System call
-	  * Argument for program
-	  * File Operations
+  
