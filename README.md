@@ -7,3 +7,4 @@ Day  | Topic
 --- | ---
 **1** | [<ul><li>Learn Python Scripting </li><li> Working on Python Shodan </li><li> Learning CEH 11 Module 1 Introduction to Ethical Hacking </li></ul>](/days/day1.md)
 **2** | [<ul><li>Learn About Networking Topics</li><li> Solve Vulnerable MACHINE  </li> </ul>](/days/day2.md)
+**3** | [<ul><li>Report Writting Vulnerable Machine </li><li> Learn About the Directory Traversal   </li> </ul>](/days/day3.md)
