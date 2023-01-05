@@ -10,4 +10,6 @@ Day  | Topic
 **3** | [<ul><li>Report Writting Vulnerable Machine </li><li> Learn About the Directory Traversal   </li> </ul>](/days/day3.md)
 **4** | [<ul><li> CERTIFIED APPSEC PRACTITIONER (CAP)  </li><li> Learn About WPSCAN   </li> </ul>](/days/day4.md)
 **5** | [<ul><li> CEH Module 7 Malware Threats </li><li> Learn Basic Linux  </li> </ul>](/days/day5.md)
+**6** | [<ul><li> CEH Module 8 Sniffing </li><li> Learn Basic Linux  </li> </ul>](/days/day6.md)
+
 
