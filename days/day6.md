@@ -6,22 +6,10 @@ Index | Section
 
 #### Learning Resource:
 
-  * Practical DHCP STARTVATION  
-  
-  * [Leaning CEH Module 7 Malware Threats ](https://www.youtube.com/watch?v=idzbKVBrbEY) 
+   
+  * [Linux Directories ](https://www.youtube.com/watch?v=lQi7fxVO7Zo) 
+  * [Linux File and Permmisions ](https://www.youtube.com/watch?v=4e669hSjaX8) 
+  * [Linux Directories ](https://www.youtube.com/watch?v=lQi7fxVO7Zo) 
 
- 	  * Introduction to Malware - Malware is malicious software that damage or disables computer system and gives limited or full control of the systems to the malware creator for the purpose of theft or fraud
-	  * Example of Malwares 
-	   
-	      * Trojans
-	      * Backdoors
-	      * Rootkits
-	      * Ransomware
-	      * Adware
-	      * Viruses
-	      * Worms
-	      * Spyware
-	      * Botnets
-	      * Crypters
-      
-	
+
+ 	
