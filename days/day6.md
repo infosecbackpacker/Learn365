@@ -9,7 +9,6 @@ Index | Section
    
   * [Linux Directories ](https://www.youtube.com/watch?v=lQi7fxVO7Zo) 
   * [Linux File and Permmisions ](https://www.youtube.com/watch?v=4e669hSjaX8) 
-  * [Linux Directories ](https://www.youtube.com/watch?v=lQi7fxVO7Zo) 
-
+  * [Linux User Management ](https://www.youtube.com/watch?v=19WOD84JFxA)
 
  	
