@@ -11,5 +11,6 @@ Day  | Topic
 **4** | [<ul><li> CERTIFIED APPSEC PRACTITIONER (CAP)  </li><li> Learn About WPSCAN   </li> </ul>](/days/day4.md)
 **5** | [<ul><li> CEH Module 7 Malware Threats </li><li> Learn Basic Linux  </li> </ul>](/days/day5.md)
 **6** | [<ul> <li> Linux Directories  </li> <li> Linux Module - File and Permission  </li> <li> Linux  Module - User Add and Groups  </li> </ul>](/days/day6.md)
+**7** | [<ul> <li> Particated TCS HACKQUEST 7 </li> </ul>](/days/day7.md)
 
 
