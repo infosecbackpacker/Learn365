@@ -12,5 +12,10 @@ Day  | Topic
 **5** | [<ul><li> CEH Module 7 Malware Threats </li><li> Learn Basic Linux  </li> </ul>](/days/day5.md)
 **6** | [<ul> <li> Linux Directories  </li> <li> Linux Module - File and Permission  </li> <li> Linux  Module - User Add and Groups  </li> </ul>](/days/day6.md)
 **7** | [<ul> <li> Particated TCS HACKQUEST 7 </li> </ul>](/days/day7.md)
+**7** | [<ul> <li> Pratice Interview Questions</li> </ul>](/days/day7.md)
+
+
+
+
 
 
