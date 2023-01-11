@@ -13,7 +13,11 @@ Day  | Topic
 **6** | [<ul> <li> Linux Directories  </li> <li> Linux Module - File and Permission  </li> <li> Linux  Module - User Add and Groups  </li> </ul>](/days/day6.md)
 **7** | [<ul> <li> Particated TCS HACKQUEST 7 </li> </ul>](/days/day7.md)
 **8** | [<ul> <li> Pratice Interview Questions</li> </ul>](/days/day8.md)
-**9** | [<ul> <li> Starting Networking Revision </li><li> Starting Fortigate Firewalls </li> </ul>](/days/day9.md)
+**9** | [<ul> <li> Starting Networking Revision </li><li> Starting Fortigate Firewalls Day 1 </li> </ul>](/days/day9.md)
+**10** | [<ul> <li> Starting Networking Revision </li><li> Fortigate Firewalls Day 2 </li> </ul>](/days/day10.md)
+**11** | [<ul> <li> First  Cybersecurity Interview 2023 </li><li> Fortigate Firewalls Day 3</li> </ul>](/days/day11.md)
+
+
 
 
 
