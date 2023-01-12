@@ -16,6 +16,7 @@ Day  | Topic
 **9** | [<ul> <li> Starting Networking Revision </li><li> Starting Fortigate Firewalls Day 1 </li> </ul>](/days/day9.md)
 **10** | [<ul> <li> Starting Networking Revision </li><li> Fortigate Firewalls Day 2 </li> </ul>](/days/day10.md)
 **11** | [<ul> <li> First  Cybersecurity Interview 2023 </li><li> Fortigate Firewalls Day 3</li> </ul>](/days/day11.md)
+**12** | [<ul> <li> Taking Break </li> </ul>](/days/day12.md)
 
 
 
