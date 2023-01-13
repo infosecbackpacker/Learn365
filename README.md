@@ -17,9 +17,7 @@ Day  | Topic
 **10** | [<ul> <li> Starting Networking Revision </li><li> Fortigate Firewalls Day 2 </li> </ul>](/days/day10.md)
 **11** | [<ul> <li> First  Cybersecurity Interview 2023 </li><li> Fortigate Firewalls Day 3</li> </ul>](/days/day11.md)
 **12** | [<ul> <li> Taking Break </li> </ul>](/days/day12.md)
-
-
-
+**13** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day13.md)
 
 
 
