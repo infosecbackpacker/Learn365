@@ -18,6 +18,10 @@ Day  | Topic
 **11** | [<ul> <li> First  Cybersecurity Interview 2023 </li><li> Fortigate Firewalls Day 3</li> </ul>](/days/day11.md)
 **12** | [<ul> <li> Taking Break </li> </ul>](/days/day12.md)
 **13** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day13.md)
+**14** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day14.md)
+**15** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day15.md)
+
+
 
 
 
