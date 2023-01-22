@@ -20,9 +20,14 @@ Day  | Topic
 **13** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day13.md)
 **14** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day14.md)
 **15** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day15.md)
-
-
-
+**16** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day16.md)
+**17** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day17.md)
+**18** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day18.md)
+**19** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day19.md)
+**20** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day20.md)
+**21** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day21.md)
+**22** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day22.md)
+**23** | [<ul> <li> Unable to Focus . Missing Mom and Dad </li> </ul>](/days/day23.md)
 
 
 
